@@ -1,0 +1,23 @@
+[
+  {
+    "inputs": [{ "internalType": "bytes", "name": "term", "type": "bytes" }],
+    "name": "hashWithKeccak256",
+    "outputs": [{ "internalType": "bytes32", "name": "", "type": "bytes32" }],
+    "stateMutability": "pure",
+    "type": "function"
+  },
+  {
+    "inputs": [{ "internalType": "bytes", "name": "term", "type": "bytes" }],
+    "name": "hashWithRIPEMD160",
+    "outputs": [{ "internalType": "bytes20", "name": "", "type": "bytes20" }],
+    "stateMutability": "pure",
+    "type": "function"
+  },
+  {
+    "inputs": [{ "internalType": "bytes", "name": "term", "type": "bytes" }],
+    "name": "hashWithSHA256",
+    "outputs": [{ "internalType": "bytes32", "name": "", "type": "bytes32" }],
+    "stateMutability": "pure",
+    "type": "function"
+  }
+]
