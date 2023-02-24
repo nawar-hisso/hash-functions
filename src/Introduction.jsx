@@ -18,7 +18,7 @@ export const Introduction = () => {
   const navigate = useNavigate();
 
   const next = () => {
-    navigate("/how-its-working");
+    navigate("/how-does-it-work");
   };
 
   return (

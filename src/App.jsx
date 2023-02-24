@@ -58,7 +58,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Introduction />} />
-          <Route path="/how-its-working" element={<HowItsWorking />} />
+          <Route path="/how-does-it-work" element={<HowItsWorking />} />
           <Route
             path="/what-are-their-properties"
             element={<WhatAreTheirProperties />}

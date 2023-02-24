@@ -25,7 +25,7 @@ export const WhatAreTheirProperties = () => {
   };
 
   const previous = () => {
-    navigate("/how-its-working");
+    navigate("/how-does-it-work");
   };
 
   return (
